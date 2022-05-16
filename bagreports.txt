@@ -1,0 +1,7 @@
+ID
+Title
+Summary
+Precondition
+Steps to reproduce
+Expected result
+Actually result
